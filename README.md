@@ -1,4 +1,6 @@
 ## Background
+Used VBA scripting to analyse real stock market data.
+
 - The script loops through one year of stock data and reads/ stores all of the following values from each row:
     
     ✓ ticker symbol
@@ -12,7 +14,7 @@
 - Conditional formatting is applied correctly and appropriately to the yearly change and/ or percent change columns
 
 ## Visualisations
-
+![final_solution](final_solution.png)
 
 Sub Stockdata()
 
