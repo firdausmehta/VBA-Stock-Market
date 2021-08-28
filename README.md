@@ -1,3 +1,19 @@
+## Background
+- The script loops through one year of stock data and reads/ stores all of the following values from each row:
+    
+    ✓ ticker symbol
+    
+    ✓ volume of stock
+   
+    ✓ open price
+    
+    ✓ close price
+
+- Conditional formatting is applied correctly and appropriately to the yearly change and/ or percent change columns
+
+## Visualisations
+
+
 Sub Stockdata()
 
     ' Set CurrentWs as a worksheet object variable.
